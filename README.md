@@ -21,6 +21,11 @@
 ![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/noticias1.png)
 ![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/noticias2.png)
 
+### 4 - Chalé Hotel - Chalet Hotel
+
+### Previa - Preview
+ 
+![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/chale%20hotel.png)
 
    ## Contato - Contacts :iphone:
 
@@ -37,6 +42,10 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/">
     </a>
 </p>
+
+
+
+
 
 
   ## Autor-Author
