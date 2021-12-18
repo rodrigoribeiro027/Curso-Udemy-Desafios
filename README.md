@@ -19,13 +19,16 @@
 ### Previa - Preview
  
 ![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/noticias1.png)
+
 ![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/noticias2.png)
 
 ### 4 - Chalé Hotel - Chalet Hotel
 
 ### Previa - Preview
  
-![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/chale%20hotel.png)
+
+
+![Post show](https://github.com/rodrigoribeiro027/Curso-Udemy-Desafios/blob/main/docs/chale.png)
 
    ## Contato - Contacts :iphone:
 
